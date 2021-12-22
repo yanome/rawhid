@@ -1,4 +1,4 @@
-module gihub.com/yanome/rawhid
+module github.com/yanome/rawhid
 
 go 1.17
 
